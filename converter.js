@@ -1,4 +1,4 @@
-import TextToSVG from 'https://esm.sh/text-to-svg@3.1.5';
+import TextToSVG from 'https://esm.sh/text-to-svg@3.1.5?dev';
 
 const attributes = {fill: 'white', stroke: 'black', 'stroke-width': '.75'};
 const options = {x: 0, y: 0, fontSize: 16, anchor: 'top', attributes: attributes};
